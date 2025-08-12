@@ -14,7 +14,6 @@ venv
 .envrc
 .direnv
 .vs
-.vscode
 *.bak
 *.ipynb
 *.log
@@ -30,4 +29,5 @@ wandb
 /docker-compose.yaml
 /docker-compose.yml
 /Dockerfile
-.env
+config.bat
+node_modules
