@@ -6,6 +6,8 @@ python download-model.py facebook/opt-1.3b
 
 '''
 
+import utils.transport
+import utils.session
 import argparse
 import base64
 import datetime
